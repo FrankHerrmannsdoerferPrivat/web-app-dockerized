@@ -1,9 +1,9 @@
 [project]
-name = "web-app-dockerized"
+name = "webapp"
 version = "0.1.0"
 description = "python web app dockerized"
 authors = [
-    {name = "Your Name",email = "you@example.com"}
+    {name = "Frank Herrmannsdoerfer",email = "fherrmannsdoerfer@gmail.com"}
 ]
 license = {text = "MIT"}
 readme = "README.md"
